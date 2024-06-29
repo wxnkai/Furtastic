@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyAKa8f-TyVyCJ_qpkWtpCul9rRk1Gy8d2k",
+        apiKey: "Firebase API Key (Removed due as it is sensitive)",
         authDomain: "furtastic-16c9d.firebaseapp.com",
         databaseURL: "https://furtastic-16c9d-default-rtdb.asia-southeast1.firebasedatabase.app",
         projectId: "furtastic-16c9d",
